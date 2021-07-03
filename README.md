@@ -1,2 +1,1 @@
 # EqnoStation-ticketManager
-# EqnoStation-ticketManager
