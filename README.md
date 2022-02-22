@@ -1,4 +1,4 @@
-# EqnoStation-ticketManager
+# EqnoStation-TicketManager
 <br>
 帮同学代写的Java课设。
 <br>
